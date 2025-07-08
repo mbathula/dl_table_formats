@@ -45,11 +45,10 @@
   ✓ Iceberg writes are 425.8% faster
   ✓ Delta reads are 2.0% faster
 
-## Medium 50M
 
-============================================================
-PERFORMANCE COMPARISON REPORT - MEDIUM DATASET
-============================================================
+### ============================================================
+### PERFORMANCE COMPARISON REPORT - MEDIUM DATASET
+#### ============================================================
 
 📝 WRITE OPERATIONS:
   Delta Standard Write: 20.54s
@@ -90,5 +89,5 @@ PERFORMANCE COMPARISON REPORT - MEDIUM DATASET
 🎯 INSIGHTS:
   ✓ Iceberg writes are 128.0% faster
   ✓ Iceberg reads are 6.5% faster
-## Large 100M
+
 
